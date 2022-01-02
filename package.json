@@ -1,0 +1,27 @@
+{
+  "name": "practice",
+  "version": "1.0.0",
+  "description": "",
+  "main": "server.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/harrispdx/node-practice.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/harrispdx/node-practice/issues"
+  },
+  "homepage": "https://github.com/harrispdx/node-practice#readme",
+  "dependencies": {
+    "fastify": "^3.25.3"
+  },
+  "devDependencies": {
+    "fastify-cli": "^2.14.0"
+  }
+}
